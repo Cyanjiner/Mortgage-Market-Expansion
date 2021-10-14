@@ -1,5 +1,5 @@
 ## Description:
-This is a data analysis project on Exansion into Nebraska Mortgage Market for [2020 University of Toronto Master of Management Analytics Data Hackthon](https://www.rotman.utoronto.ca/Degrees/MastersPrograms/MMA/datathon2021faq) <img src='datathon.png' align="right" height="180"/>
+This is a data analysis project on Exansion into Nebraska Mortgage Market for [2021 MMA Datathon](https://www.rotman.utoronto.ca/Degrees/MastersPrograms/MMA/datathon2021faq) <img src='datathon.png' align="right" height="180"/>
 
 
 ## Case Challenge: 

@@ -15,4 +15,4 @@ This is a data analysis project on Exansion into Nebraska Mortgage Market for [2
 
 **Presentation Slides:** This is our presentation slides outlining our analytical roadmap, findings, recommendations, along with appendix: [Presentation Slides](https://github.com/Cyanjiner/Mortgage-Market-Expansion/blob/main/Datathon%20-%20TCG%20Presentation.pptx.pdf)
 
-**Useful Code:** We use R and Python as our analytical tool to conduct statistical test for this challenge: [Datathon.Rmd](), [corr_matrix.py]()
+**Useful Code:** We use R and Python as our analytical tool to conduct statistical test for this challenge: [Datathon.Rmd](https://github.com/Cyanjiner/Mortgage-Market-Expansion/blob/main/Datathon.Rmd), [corr_matrix.py]()

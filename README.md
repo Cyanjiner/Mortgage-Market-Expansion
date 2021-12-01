@@ -8,7 +8,7 @@ Analyzing the Nebraska Mortgage Loan Market
 - `Team members`: [Jiaqi Bi](), [Eric Lee](), [Jiaqi Li](), [Ruichen Lu](), [Scarlett Wang](), [Jiner Zheng]()
 
 ## Background
-- A mortgage loan is a loan used to purchase real estate and is secured by the underlying property. The secondary mortgage market is where existing mortgage loans are bought and sold between lenders and investors. In the United States, one of the largest purchasers of mortgage loans is the government-sponsored enterprise Federal National Mortgage Association, commonly known as Fannie Mae. They purchase loans from primary lenders, bundle them together, and package them into a mortgage-backed security, which can be sold to investors in the secondary mortgage market
+- A mortgage loan is a loan used to purchase real estate and is secured by the underlying property. The secondary mortgage market is where existing mortgage loans are bought and sold between lenders and investors. In the United States, one of the largest purchasers of mortgage loans is the government-sponsored enterprise Federal National Mortgage Association, commonly known as Fannie Mae. They purchase loans from primary lenders, bundle them together, and package them into a mortgage-backed security, which can be sold to investors in the secondary mortgage market.
 
 ## Problem
 - To analyze data of all convensional single-family, fixed interest rate mortgages from 2000-2021Q1 via Fannie Mae and determine a recommendation on which segments of the Nebraska mortgage market to focus on.
